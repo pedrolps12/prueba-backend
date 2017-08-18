@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<service>
+    <salary>
+        <min>1000</min>
+        <max>1500</max>
+    </salary>
+</service>
